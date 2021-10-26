@@ -1,7 +1,3 @@
-## Welcome to my profile.
+## 𝑀𝑒𝓂𝑒𝓃𝓉𝑜 𝓂𝑜𝓇𝒾
 
-My name's exo and i'm into cybersecurity and programming.
-
-I also do some scambaiting (wasting scammers time) and i love to hack them.
-
-exo?#0001
+[![mrexo's GitHub stats](https://github-readme-stats.vercel.app/api?username=mr-exo)](https://github.com/anuraghazra/github-readme-stats)
